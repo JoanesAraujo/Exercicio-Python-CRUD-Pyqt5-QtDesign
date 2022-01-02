@@ -1,9 +1,10 @@
 # 👨‍💻️ Criando Um Sistema CRUD Em PyQt5 Usando QT Designer
 
-Criação de tela no QtDesign utilizando a bilioteca Pyqt5.<br/> 
-Converter o arquivo <b>.ui</b> para <b>.py</b> para manipular o código.
+- Criação de tela no QtDesign utilizando a bilioteca Pyqt5.<br/> 
+- Converter o arquivo <b>.ui</b> para <b>.py</b> para manipular o código.<br/>
+- Exemplo do exercício:  pyuic5 <b>cliente.ui</b> -o <b>Employee.py</b>
 
-OBS: Salva apenas na lista.
+OBS: Os dados salvam apenas na lista.
 
 
 
